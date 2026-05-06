@@ -1,0 +1,27 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pth
+.env
+
+# Database
+*.db
+
+# Data — never commit images!
+data/
+feedback_images/
+
+# Mac
+.DS_Store
+
+# MLflow runs
+mlruns/
+
+# CoreML model (too large for GitHub)
+*.mlpackage
+*.mlmodel
+*.pt
+
+# API keys
+.env
