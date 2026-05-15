@@ -110,19 +110,6 @@ Summer / winter seasonal toggle.
 **Persistence:** None in v1 — no accounts, no saved plots. Each session is
 independent. The user screenshots or saves the plan if they want to keep it.
 
-## Out of scope for v1 (deliberately)
-
-- AR / 3D overlay (v2)
-- Multi-plot or full-property management (v2)
-- Watering schedules and care reminders
-- Pest and disease diagnosis
-- E-commerce / nursery integration
-- User preference toggles — pollinator-only, native-only, low-water, etc. (v3)
-- USDA zones outside 9–10 (v2)
-- Vegetables (v3)
-- "What's currently failing in my bed" mid-season mode (v2)
-- Accounts, persistence, and notifications (v2)
-
 ## Roadmap
 
 **v1 (Aug 30, 2026)** — The vision above. Demoable end-to-end on iPhone, on a
