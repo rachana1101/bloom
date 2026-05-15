@@ -22,9 +22,6 @@ Anyone with a piece of real soil they can plant into:
 
 - A raised bed in a backyard
 - A patch of bare earth along a fence
-- A small garden plot or border
-- A side yard strip
-- The classic "I have grass but want to convert this corner" situation
 
 The user leans toward the **beginner end** of the gardening spectrum — they
 care about their space and want it to be beautiful, but they don't have deep
@@ -102,8 +99,7 @@ The user takes a photo. Bloom returns a plan. No questionnaire.
 **Geography:** Bay Area, USDA zones 9–10 only. The plant database is curated
 for this zone. v1 will be excellent for one zone rather than mediocre for many.
 
-**Plant types:** Ornamentals and culinary herbs only. No vegetables (their
-planting calendars and harvest timing add too much complexity for v1).
+**Plant types:** Vegetables just planting.
 
 **Platform:** iOS, on-device CV via CoreML. One network call to the LLM for the
 recommendation step.
@@ -131,12 +127,6 @@ independent. The user screenshots or saves the plan if they want to keep it.
 
 **v1 (Aug 30, 2026)** — The vision above. Demoable end-to-end on iPhone, on a
 real Bay Area plot, with a real planting plan as output.
-
-**v2** — AR overlay, broader USDA zones, mid-season failure mode, plot
-persistence and accounts.
-
-**v3** — User preferences, vegetables, native-plant emphasis, pollinator-only
-mode, and all the configurability v1 deliberately skips.
 
 ## Success criteria for v1
 
